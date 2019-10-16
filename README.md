@@ -1,2 +1,3 @@
-# Time Series Prediction by Using AutoEncoder
-# 2 Different Datasets: CIF and NN5
+### Time Series Prediction by Using AutoEncoder
+### Datasets: CIF and NN5
+### Evaluation criteria: SMAPE (Symmetric Mean Absolute Percentage Error)
